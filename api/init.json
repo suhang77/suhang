@@ -23,7 +23,7 @@
       "child": [
         {
           "title": "专业管理",
-          "href": "page/department/majorManage.jsp",
+          "href": "page/department/majorManage.html",
           "icon": "fa fa-mortar-board",
           "target": "_self"
         }
@@ -43,7 +43,7 @@
         },
         {
           "title": "班级信息维护",
-          "href": "page/class/findClass.jsp",
+          "href": "page/class/findClass.html",
           "icon": "fa fa-search-plus",
           "target": "_self"
         }
@@ -57,13 +57,13 @@
       "child": [
         {
           "title": "添加学生",
-          "href": "page/student/addStudent.jsp",
+          "href": "page/student/addStudent.html",
           "icon": "fa fa-plus-square",
           "target": "_self"
         },
         {
           "title": "学生信息维护",
-          "href": "page/student/findStudent.jsp",
+          "href": "page/student/findStudent.html",
           "icon": "fa fa-search",
           "target": "_self"
         }
@@ -78,18 +78,18 @@
       "child": [
         {
           "title": "合作企业添加",
-          "href": "page/company/addCompany.jsp",
+          "href": "page/company/addCompany.html",
           "icon": "fa fa-plus-circle",
           "target": "_self"
         },
         {
           "title": "合作企业维护",
-          "href": "page/company/findCompany.jsp",
+          "href": "page/company/findCompany.html",
           "icon": "fa fa-search-plus",
           "target": "_self"
         },{
           "title": "专场招聘会维护",
-          "href": "page/company/findHiringRecord.jsp",
+          "href": "page/company/findHiringRecord.html",
           "icon": "fa fa-tty",
           "target": "_self"
         }
